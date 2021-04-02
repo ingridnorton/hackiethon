@@ -4,7 +4,7 @@ Clone the repo locally
 
 Create a directory and navigate to it. Then type in
 
-`git clone https://github.com/angenibai/can-i-go-out-side.git`
+`git clone https://github.com/ingridnorton/hackiethon.git`
 Create a branch with your name
 
 `git branch ingrid`
